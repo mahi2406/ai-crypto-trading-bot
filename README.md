@@ -21,7 +21,7 @@ An open-source cryptocurrency trading bot powered by AI and technical indicators
 
 ## Installation
 
-git clone https://github.com/YOUR_USERNAME/ai-crypto-trading-bot
+git clone https://github.com/mahi2406/ai-crypto-trading-bot
 
 cd ai-crypto-trading-bot
 
