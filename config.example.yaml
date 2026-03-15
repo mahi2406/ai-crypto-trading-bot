@@ -1,0 +1,11 @@
+exchange: binance
+
+binance:
+  api_key: YOUR_API_KEY
+  secret_key: YOUR_SECRET_KEY
+
+trading:
+  symbol: BTC/USDT
+  timeframe: 1m
+  risk_per_trade: 0.01
+  trailing_stop: 0.02
