@@ -32,36 +32,36 @@ This project provides a modular framework for building automated crypto trading 
 
 ## Project Structure
 
+```
 ai-crypto-trading-bot/
-
+│
 ├── README.md                # Project documentation
 ├── requirements.txt         # Python dependencies
-├── config.example.yaml      # Example configuration file
-├── .gitignore               # Ignored files for Git
-
+├── config.example.yaml      # Example configuration
+├── .gitignore               # Ignored files
+│
 ├── bot/                     # Core trading bot modules
 │   ├── api.py               # Exchange API connection
 │   ├── indicators.py        # Technical indicators
 │   ├── strategy.py          # Trading signal logic
-│   ├── risk_management.py   # Position sizing and stop-loss
-│   └── logger.py            # Trade logging
-
+│   ├── risk_management.py   # Risk and position sizing
+│   └── logger.py            # Logging trades
+│
 ├── ai/                      # AI training modules
 │   ├── environment.py       # Gymnasium trading environment
-│   ├── train_agent.py       # Reinforcement learning training
+│   ├── train_agent.py       # RL training script
 │   └── model.py             # AI model architecture
-
-├── backtest/                # Backtesting tools
+│
+├── backtest/                # Strategy backtesting
 │   └── backtester.py
-
+│
 ├── examples/                # Example scripts
 │   ├── run_live_bot.py
 │   └── train_ai_bot.py
-
-└── docs/                    # Additional documentation
-└── architecture.md
-
----
+│
+└── docs/                    # Documentation
+    └── architecture.md
+```
 
 ## Installation
 
