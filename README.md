@@ -122,6 +122,12 @@ Contributions are welcome.
 3. Commit your changes
 4. Submit a pull request
 
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![GitHub stars](https://img.shields.io/github/stars/mahi2406/ai-crypto-trading-bot)
+![GitHub forks](https://img.shields.io/github/forks/mahi2406/ai-crypto-trading-bot)
+![Issues](https://img.shields.io/github/issues/mahi2406/ai-crypto-trading-bot)
+
 ---
 
 ## License
