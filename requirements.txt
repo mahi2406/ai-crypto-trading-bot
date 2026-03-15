@@ -1,0 +1,10 @@
+ccxt
+pandas
+numpy
+ta
+tensorflow
+gymnasium
+tensortrade
+matplotlib
+tabulate
+requests
