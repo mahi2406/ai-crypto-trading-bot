@@ -1,4 +1,9 @@
 # AI Crypto Trading Bot
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![GitHub stars](https://img.shields.io/github/stars/mahi2406/ai-crypto-trading-bot)
+![GitHub forks](https://img.shields.io/github/forks/mahi2406/ai-crypto-trading-bot)
+![Issues](https://img.shields.io/github/issues/mahi2406/ai-crypto-trading-bot)
 
 An open-source cryptocurrency trading bot powered by **AI and technical indicators**.
 This project provides a modular framework for building automated crypto trading systems using **machine learning, reinforcement learning, and traditional trading strategies**.
@@ -121,12 +126,6 @@ Contributions are welcome.
 2. Create a feature branch
 3. Commit your changes
 4. Submit a pull request
-
-![Python](https://img.shields.io/badge/Python-3.9+-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![GitHub stars](https://img.shields.io/github/stars/mahi2406/ai-crypto-trading-bot)
-![GitHub forks](https://img.shields.io/github/forks/mahi2406/ai-crypto-trading-bot)
-![Issues](https://img.shields.io/github/issues/mahi2406/ai-crypto-trading-bot)
 
 ---
 
